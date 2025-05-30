@@ -13,3 +13,7 @@ func Barks() string {
 func BigBark() string {
 	return dog.WhenGrownUp(Bark())
 }
+
+func ILikeGo() string {
+	return "I like Go lang"
+}
