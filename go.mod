@@ -1,4 +1,4 @@
-module golangModules
+module github.com/t3nna/golangModules
 
 go 1.23.2
 
